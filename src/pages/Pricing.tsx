@@ -50,7 +50,7 @@ const Pricing = () => {
           
           <div className="aspect-[16/10] w-full">
             <iframe
-              src="https://gumroad.com/"
+              src="https://sparrowaionline.gumroad.com/l/30pitchdeck/"
               className="w-full h-full"
               title="Gumroad Purchase"
             />
